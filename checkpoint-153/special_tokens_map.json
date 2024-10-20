@@ -1,0 +1,13 @@
+{
+  "additional_special_tokens": [
+    "<|startofpiece|>",
+    "<|endofpiece|>",
+    "[gMASK]",
+    "[sMASK]"
+  ],
+  "cls_token": "[CLS]",
+  "eos_token": "<|endoftext|>",
+  "mask_token": "[MASK]",
+  "pad_token": "<|endoftext|>",
+  "unk_token": "[UNK]"
+}
